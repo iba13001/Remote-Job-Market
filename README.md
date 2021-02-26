@@ -1,5 +1,5 @@
 # Remote-Job-Market
-This project investigates the remote job market from scraped data from indeed.com.
+This project investigates the remote job market from scraped data from indeed.com in the period before February 15th 2021.
 
 ### Research Questions
 - Where are the companies that require remote employees located?
