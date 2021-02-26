@@ -20,3 +20,6 @@ Salary: the salary <br>
 Text: the job description <br>
 
 The Power Point slides have a summary of the research outcome
+
+### Future Work
+More work can be done to classify the jobs using unsupervised learning. Also, machine learning can be built to predict the salary from job description.
