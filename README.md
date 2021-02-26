@@ -1,4 +1,4 @@
-# Remote-Job-Market
+# Remote-Job-Market-COVID
 This project investigates the remote job market from scraped data from indeed.com in the period before February 15th 2021.
 
 ### Research Questions
@@ -10,6 +10,7 @@ This project investigates the remote job market from scraped data from indeed.co
 - What are the characteristics of lower- and higher-pay jobs?
 
 ### Data Description
+###### The data were scraped using Scrapy within Python
 Company: company name <br>
 Date: the time a job posted <br>
 JobLoc: job location <br>
