@@ -21,5 +21,16 @@ Text: the job description <br>
 
 The Power Point slides have a summary of the research outcome
 
+### Conclusions
+- Staffing companies invest a lot on indeed.com. Duplicates accounted for ~70% of the scraped data and they were mostly from staffing firms.
+- The top postings are from these locations in this order: NYC, Chicago, Atlanta, Los Angeles, and Washington, DC.
+- Middle of the week is when most of the jobs are posted.
+- The majority of the posted remote jobs don’t have a specified location.
+- Most of the posted jobs are sales, marketing and business development jobs.
+- Most of the required qualifications are 1 year experience and bachelor.
+- The median estimated salary for the remote jobs is $60,000 a year.
+- More salaries are offered to federal employees, candidates with sales experience, real estate experience and above 2 years experience.
+- Less salaries are offered to customer service, representatives, specialist, social media and part-time jobs.
+
 ### Future Work
 More work can be done to classify the jobs using unsupervised learning. Also, a machine learning model can be built to predict the salary from job description.
