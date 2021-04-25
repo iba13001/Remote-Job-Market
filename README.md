@@ -19,7 +19,7 @@ Qualifications: the required qualifications <br>
 Salary: the salary <br>
 Text: the job description <br>
 
-The [Power Point slides](https://github.com/iba13001/Remote-Job-Market/blob/main/Remote%20Job%20Market%20during%20COVID.pptx) have a summary of the research outcome
+The [Power Point slides](https://github.com/iba13001/Remote-Job-Market/blob/main/RemoteJobMarketCOVID.pptx) have a summary of the research outcome
 
 ### Conclusions
 - Staffing companies invest a lot on indeed.com. Duplicates accounted for ~70% of the scraped data and they were mostly from staffing firms.
