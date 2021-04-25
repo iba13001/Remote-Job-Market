@@ -9,18 +9,6 @@ This project investigates the remote job market from scraped data from indeed.co
 - How are the salaries distributed?
 - What are the characteristics of lower- and higher-pay jobs?
 
-### Data Description
-##### The data were scraped using Scrapy within Python.
-Company: company name <br>
-Date: the time a job posted <br>
-JobLoc: job location <br>
-JobTitls: the title of the job <br>
-Qualifications: the required qualifications <br>
-Salary: the salary <br>
-Text: the job description <br>
-
-The [Power Point slides](https://github.com/iba13001/Remote-Job-Market/blob/main/RemoteJobMarketCOVID.pptx) have a summary of the research outcome
-
 ### Conclusions
 - Staffing companies invest a lot on indeed.com. Duplicates accounted for ~70% of the scraped data and they were mostly from staffing firms.
 - The top postings are from these locations in this order: NYC, Chicago, Atlanta, Los Angeles, and Washington, DC.
@@ -32,5 +20,17 @@ The [Power Point slides](https://github.com/iba13001/Remote-Job-Market/blob/main
 - More salaries are offered to federal employees, candidates with sales experience, real estate experience and above 2 years experience.
 - Less salaries are offered to customer service, representatives, specialist, social media and part-time jobs.
 
+The [Power Point slides](https://github.com/iba13001/Remote-Job-Market/blob/main/RemoteJobMarketCOVID.pptx) have a summary of the research outcome
+
 ### Future Work
 More work can be done to classify the jobs using unsupervised learning. Also, a machine learning model can be built to predict the salary from job description.
+
+### Data Description
+##### The data were scraped using Scrapy within Python.
+Company: company name <br>
+Date: the time a job posted <br>
+JobLoc: job location <br>
+JobTitls: the title of the job <br>
+Qualifications: the required qualifications <br>
+Salary: the salary <br>
+Text: the job description <br>
